@@ -1,4 +1,6 @@
-CREATE DATABASE HackeRrank;
+CREATE DATABASE HackerRank;
+
+USE HackerRank;
 
 CREATE TABLE DifficultyLevel (
 	DifficultyLevelID INT NOT NULL AUTO_INCREMENT, 
